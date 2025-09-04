@@ -4,7 +4,7 @@
 3. 自动做对象数量 + 样本行数比对，确认迁移可用。
 
 
-## 快速跑
+## run
 
 ```bash
 # 1) 在 v2.6 上种数据
@@ -15,3 +15,4 @@ examples/smoke-test/02_run_example.sh
 
 # 3) 额外校验（可重复运行）
 examples/smoke-test/03_verify.sh
+
